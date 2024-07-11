@@ -10,7 +10,7 @@ A churn prediction model developed using TensorFlow and Keras offers a powerful 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
